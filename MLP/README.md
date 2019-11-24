@@ -1,5 +1,6 @@
 # MLP Project
 Author: Rafael Leiniö
+
 Neural Networks Postgraduate class (2019) - National Institute of Space Research (INPE) - Prof. Dr. Marcos Gonçalves Quiles
 
 # Introduction
