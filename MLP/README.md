@@ -1,6 +1,7 @@
 # MLP Project
-> Author: Rafael Leiniö
-> Neural Networks Postgraduate class - National Institute of Space Research (INPE) - Prof. Dr. Marcos Gonçalves Quiles
+Author: Rafael Leiniö
+
+Neural Networks Postgraduate class (2019) - National Institute of Space Research (INPE) - Prof. Dr. Marcos Gonçalves Quiles
 
 # Introduction
 Multilayer perceptron (MLP) is a neural network similar to simple perceptron networks, but has more than one layer of neurons in the hidden layers. Is use in problems that are not easily linearly separable. Learning in this type of network is usually done through the error propagation algorithm, but there are other algorithms for this purpose. Each network layer has a specific activation function. The output layer receives stimulation from the last hidden layer and builds the response.
