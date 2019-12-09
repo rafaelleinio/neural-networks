@@ -47,4 +47,4 @@ For all the test was generated an image of the final learned topology and an ite
 
 # Spoiler - evolution of the models:
 
-![](https://media.giphy.com/media/d8PphcE1kujyZxknEp/giphy.gif =3000x)
+![](https://media.giphy.com/media/d8PphcE1kujyZxknEp/giphy.gif)
