@@ -1,2 +1,7 @@
 
 .ipynb_checkpoints
+.dataset.csv
+
+Conclusion Project - Anomally Detection/dataset\.csv
+
+*.csv#
